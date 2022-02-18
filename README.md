@@ -27,5 +27,5 @@ In this project we utilize two datasets:
 ### Principal Component Analysis
 Our Dataset has more than 40 features, we will apply PCA to visualize this high dimensional data. By imposing the different Boroughs and Rent Prices on our PCA visualization, we can see how they tend to cluster.
 
-### MACHINE LEARNIGN MODELS
+### Machine Learning Models
 - Applied Hyperparameter Tuning and Feature Engineering to test how well Linear Regression, Ridge Regression and Random Forest Regressor Perform in analyzing the Data. 
