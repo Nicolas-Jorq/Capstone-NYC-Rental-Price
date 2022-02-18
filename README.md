@@ -8,7 +8,7 @@ In this project we utilize two datasets:
 1. New York City Rent Prices for 2020 Dataset
 2. Neighborhood Extrinsic Factors - Housing Authority Dataset
 
-### Zillow – New York City Rent Prices for 2020 Dataset
+### Zillow – New York City Rent Prices for 2020 Dataset 
 #### Data Wrangling
 - 7000 unique listings for apartments in New York City in 2020, with over 20 features
 - However, to ensure that all this data is accurate, we had to filter the data, by removing listings not in NYC, or listings whose rent cost were astronomical. After filtering the data, we removed 20% of the listings.
