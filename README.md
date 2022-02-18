@@ -29,3 +29,6 @@ Our Dataset has more than 40 features, we will apply PCA to visualize this high 
 
 ### Machine Learning Models
 - Applied Hyperparameter Tuning and Feature Engineering to test how well Linear Regression, Ridge Regression and Random Forest Regressor Perform in analyzing the Data. 
+
+#### Model Evaluation Metrics 
+- MAE, RMSE, r2
